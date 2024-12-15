@@ -101,6 +101,10 @@ table tr:nth-child(-n+3) {
     h1, p, .Ingredients, .Instructions, .Nutrition {
         margin: 0 5px 15px 35px;
     }
+
+     .Nutrition p {
+          margin-left: 0;
+     }
     .flex-item {
         width: 400px;
         background-color: hsl(0, 0%, 100%);
