@@ -57,7 +57,6 @@ img {
     background-color: hsl(330, 100%, 98%);
     padding: 20px;
     margin: 20px;
-    border-radius: 5px;
 }
 
 li {
@@ -102,9 +101,10 @@ table tr:nth-child(-n+3) {
         margin: 0 5px 15px 35px;
     }
 
-     .Nutrition p {
-          margin-left: 0;
-     }
+    .Nutrition p {
+        margin-left: 0;
+    }
+
     .flex-item {
         width: 400px;
         background-color: hsl(0, 0%, 100%);
